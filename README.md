@@ -3,6 +3,7 @@ Amateur Radio related information from VU3BOJ
 
 ## Repeaters
 VU Repeater database for Chirp software.
+The list is ordered state wise. After opening in Excel, delete the rows that are not required. Text filter can also applied to the "Comment" column like "[KL]". Save the file in the same CSV format.
 
 **Instructions**:
 1. Install Chirp software from chirp.danplanet.com
