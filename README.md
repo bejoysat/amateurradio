@@ -1,5 +1,5 @@
 # amateurradio
-Amateur Radio related information from VU3BOJ
+Amateur Radio related information from [VU3BOJ](https://www.qrz.com/db/VU3BOJ)
 
 ## VU Repeaters
 VU Repeater database for Chirp software.
