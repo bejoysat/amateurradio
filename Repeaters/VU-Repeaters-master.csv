@@ -7,7 +7,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 5,VU2CHQ,144.9,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Chikmagalur[KA],,,,
 6,VU2NIK,145.425,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Mangalore, Ladyhill[KA]",,,,
 7,VU2TCD,145.85,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Tiruchengode, Yercaud Hills[TN]",,,,
-8,VU2YCD,434.95,-,1.6,,88.5,88.5,23,NN,FM,12.5,,"Yelagiri, Swamimalai Hills[TN]",,,,
+8,VU2YCD,434.95,-,1.6,,88.5,88.5,23,NN,FM,12.5,,"Tiruchengode, Yercaud Hills[TN]",,,,
 9,VU2VCM,145.475,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Yelagiri, Swamimalai Hills[TN]",,,,
 10,VU2LHS,145.55,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Chennai[TN],,,,
 11,VU3MVR,145.675,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Chennai[TN],,,,
