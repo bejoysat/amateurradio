@@ -23,9 +23,9 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 21,VU2MJJ,145.45,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Malappuram, Puthanathani[KL]",CQCQCQ,,,0
 22,VU2IAC,144.825,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Thrissur[KL],,,,
 23,VU2BCM,145.65,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Palakkad, Nelliyampathi Hills[KL]",,,,
-24,VU2TTD,145.3,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Thodupuzha[KL],,,,
+24,VU2IP,145.265,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Pala, Ilaveezhapunchira[KL]",,,,
 25,VU2CHN,145.6,-,0.6,Tone,100,88.5,23,NN,FM,12.5,,"Kochi, Kakkanad[KL]",,,,
-26,VU2WSV,145.55,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Alappuzha[KL],,,,
+26,VU2WSW,145.55,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Alappuzha[KL],,,,
 27,VU2FAR,145.175,+,0.6,,88.5,88.5,23,NN,FM,12.5,,Idukki[KL],,,,
 28,VU2DFD,144.475,+,0.6,,88.5,88.5,23,NN,FM,12.5,,Pathanamthitta[KL],,,,
 29,VU2CSD,145.35,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Kollam[KL],,,,
