@@ -2,7 +2,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 0,VU2TWO,145.65,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Bangalore, M.G. Road[KA]",,,,
 1,VU2RSB,145.7,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Bangalore, Nandi Hills[KA]",,,,
 2,VU2ZO,145.275,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Bangalore, UB City[KA]",,,,
-3,VU2IU,145.8,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Bangalore, Mantri Pinnacle[KA],,,,
+3,VU2IU,145.8,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Bangalore, Mantri Pinnacle[KA]",,,,
 4,VU2TRE,145.725,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Mysore, Chamundi Hills[KA]",,,,
 5,VU2CHQ,144.9,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Chikmagalur[KA],,,,
 6,VU2NIK,145.425,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Mangalore, Ladyhill[KA]",,,,
