@@ -3,7 +3,7 @@ Amateur Radio related information from [VU3BOJ](https://www.qrz.com/db/VU3BOJ)
 
 ## VU Repeaters
 VU Repeater database for Chirp software.
-Download the file [VU-Repeaters-master.csv](https://raw.githubusercontent.com/bejoysat/amateurradio/master/Repeaters/VU-Repeaters-master.csv)(right click on the link and choose Save link as..). After opening in Excel, delete the rows that are not required. The list is ordered state wise. Text filter can also applied to the "Comment" column like "[KL]". Save the file in the same CSV format.
+Download the file [VU-Repeaters-master.csv](https://raw.githubusercontent.com/bejoysat/amateurradio/master/Repeaters/VU-Repeaters-master.csv)(right click on the link and choose Save link as.. Change the file type from txt to * and rename with extention .csv). After opening in Excel, delete the rows that are not required. The list is ordered state wise. Text filter can also applied to the "Comment" column like "[KL]". Save the file in the same CSV format.
 
 
 **Instructions**:
