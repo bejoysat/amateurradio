@@ -11,7 +11,7 @@ XLX147 is a multi protocol gateway reflector hosted in Chennai by VU3TBR Bala, t
 1. Enable XLX Master 
 1. Apply Changes again. 
 Note. There are no changes made to the existing DMR settings and the Hotspot /Radio will continue to work as before. 
-
+![DMR settings in pistar](dmr_gateway_settings.jpg)
 ## Program Radio
 
 The following channels need to be programmed in the radio for working the YSF India server.
