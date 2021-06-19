@@ -26,7 +26,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 24,VU2IP,145.265,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Pala, Ilaveezhapunchira[KL]",,,,
 25,VU2TTD,145.3,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Thodupuzha[KL]",,,,
 26,VU2CHN,145.6,-,0.6,Tone,100,88.5,23,NN,FM,12.5,,"Kochi, Kakkanad[KL]",,,,
-27,VU2WSW,145.55,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Alappuzha[KL],,,,
+27,VU2WSV,145.55,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Alappuzha[KL],,,,
 28,VU2FAR,145.175,+,0.6,,88.5,88.5,23,NN,FM,12.5,,Idukki[KL],,,,
 29,VU2DFD,144.475,+,0.6,,88.5,88.5,23,NN,FM,12.5,,Pathanamthitta[KL],,,,
 30,VU2CSD,145.35,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Kollam[KL],,,,
