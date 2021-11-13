@@ -30,7 +30,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 28,VU2FAR,145.175,+,0.6,,88.5,88.5,23,NN,FM,12.5,,Idukki[KL],,,,
 29,VU2DFD,144.475,+,0.6,,88.5,88.5,23,NN,FM,12.5,,Pathanamthitta[KL],,,,
 30,VU2CSD,145.35,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Kollam[KL],,,,
-31,VU2GCC,145.2,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Ezhimala/Kollam[KL],,,,
+31,VU2GCC,145.2,-,0.6,Tone,114.8,88.5,23,NN,FM,12.5,,Ezhimala/Kollam[KL],,,,
 32,VU2XT,145.6,-,0.6,Tone,88.5,88.5,23,NN,FM,12.5,,Trivandrum[KL],,,,
 33,VU2YSR,145.225,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Trivandrum[KL],,,,
 34,VU2AJI,145.45,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Guntur[AP],,,,
