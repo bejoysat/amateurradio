@@ -38,6 +38,6 @@ Radio Firmware - e.g. 1.24N
 
 ## Available Code Plugs
 
-Anytone 878UV ()  
+Anytone 878UV [code plug](4040000_uhf-sim-hs-434500000_878-v1.rdt)  
 Alinco MD DJ5  
 Alinco MD 500  
