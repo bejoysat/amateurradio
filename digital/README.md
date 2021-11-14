@@ -2,6 +2,7 @@
 
 You can download the DMR code plugs made for VU hams in particular, which includes the local repeater frequencies across India.
 
+![zones](anytone-zones.gif)
 ## Features
 
 - BrandMeister, TGIF, YSF Talk Groups 
