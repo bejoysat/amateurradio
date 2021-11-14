@@ -26,7 +26,6 @@ Zones are named as Network names, digital simplex channels, regional repeaters/s
 Download the code plug for the required radio. Choose the file based on the radio model and the hotspot type. Note that the file name contains the following information:  
 Hotspot type and frequency - e.g. UHF Simplex 434.500 MHz  
 Radio Model - e.g. Anytone 878UV  
-Radio Firmware - e.g. 1.24N  
 
 ### Customize and program
 
@@ -38,6 +37,8 @@ Radio Firmware - e.g. 1.24N
 
 ## Available Code Plugs
 
-Anytone 878UV [code plug](4040000_uhf-sim-hs-434500000_878-v1.rdt)  
-Alinco MD DJ5  
-Alinco MD 500  
+|Radio Model|Firmware|File name|Link|
+|---|---|---|---|
+|AnyTone AT-D878UV |1.24N|4040000_uhf-sim-hs-434500000_878-v1.rdt|[Download](4040000_uhf-sim-hs-434500000_878-v1.rdt)  
+|Alinco DJ-MD5||||
+|Alinco DR-MD500||||
