@@ -14,7 +14,7 @@ You can download the DMR code plugs made for VU hams in particular, which includ
 
 ### Channels
 
-Channels are grouped in the range: Digital Channels for HS (1-99), Digitl simplex channels (100-199), Analog/Digital repeater channels (200-299), Allstar HS channels (300-399), Satellite frequencies (400-499). You may find more channels than required here, but only the ones included in Zones are displayed in the radio.
+Channels are grouped in the range: Digital Channels for HS (1-99), Digital simplex channels (100-199), Analog/Digital repeater channels (200-299), Allstar HS channels (300-399), Satellite frequencies (400-499). You may find more channels than required here, but only the ones included in Zones are displayed in the radio.
 
 ### Zones
 
@@ -38,6 +38,6 @@ Radio Firmware - e.g. 1.24N
 
 ## Available Code Plugs
 
-Anytone 878UV()  
+Anytone 878UV ()  
 Alinco MD DJ5  
 Alinco MD 500  
