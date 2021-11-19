@@ -42,4 +42,4 @@ Radio Model - e.g. Anytone 878UV
 |---|---|---|---|
 |AnyTone AT-D878UV |1.24N|4040000_uhf-sim-hs-434500000_878-v1.rdt|[Download](https://github.com/bejoysat/amateurradio/raw/master/digital/4040000_uhf-sim-hs-434500000_878-v1.rdt)|
 |Alinco DJ-MD5|1.13e|4040000_uhf-sim-hs-434500000_dj5-fw1_13e-v1.rdt|[Download](https://github.com/bejoysat/amateurradio/raw/master/digital/4040000_uhf-sim-hs-434500000_dj5-fw1_13e-v1.rdt)|
-|Alinco DR-MD500||||
+|Alinco DR-MD500|1.06|4040000_uhf-sim-hs-434500000_md500-fw1_06e-v1.rdt|[Download](https://github.com/bejoysat/amateurradio/raw/master/digital/4040000_uhf-sim-hs-434500000_md500-fw1_06e-v1.rdt)|
