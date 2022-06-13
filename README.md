@@ -14,7 +14,7 @@ Download the file [VU-Repeaters-master.csv](https://raw.githubusercontent.com/be
 
 ## Homebrew Antenna
 ### Slim Jim VHF Antenna
-A simple and cost effective antenna that can be made in a weekend. [Poor Mans Slim Jim ant.pdf](https://raw.githubusercontent.com/bejoysat/amateurradio/blob/master/antenna/Poor%20Mans%20Slim%20Jim%20ant.pdf)
+A simple and cost effective antenna that can be made in a weekend. [Poor Mans Slim Jim ant.pdf](https://raw.githubusercontent.com/bejoysat/amateurradio/master/antenna/Poor%20Mans%20Slim%20Jim%20ant.pdf)
 
 
 I suggest using RG58 cable if the length is less than 20ft, else use HLF400. Both are easily available and inexpensive.
