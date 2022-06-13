@@ -12,6 +12,15 @@ Download the file [VU-Repeaters-master.csv](https://raw.githubusercontent.com/be
 3. You may retain only the entries that you are interested/relevent to your qth or area of operation. For this, select the unwanted entries and delete it. Ensure that you right click on the entry and choose Delete - > and shift all memories up...
 4. Once finalized, save to a local file or program to the Radio
 
+## Homebrew Antenna
+### Slim Jim VHF Antenna
+A simple and cost effective antenna that can be made in a weekend. [Poor Mans Slim Jim ant.pdf](https://raw.githubusercontent.com/bejoysat/amateurradio/blob/master/antenna/Poor%20Mans%20Slim%20Jim%20ant.pdf)
+
+
+I suggest using RG58 cable if the length is less than 20ft, else use HLF400. Both are easily available and inexpensive.
+
+Credits: VU2POP
+
 ## Note
 Feel free to add/edit/remove the entries and commit the changes. Send a pull-request so I can incorporate the changes.
 
