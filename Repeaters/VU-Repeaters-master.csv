@@ -1,5 +1,5 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
-0,VU2TWO,145.65,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Bangalore, M.G. Road[KA]",,,,
+0,VU2TWO,145.05,+,0.6,,88.5,88.5,23,NN,FM,12.5,,"Bangalore, M.G. Road[KA]",,,,
 1,VU2RSB,145.7,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Bangalore, Nandi Hills[KA]",,,,
 2,VU2ZO,145.275,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Bangalore, UB City[KA]",,,,
 3,VU2ZOI,434.05,+,3.6,,88.5,88.5,23,NN,FM,12.5,,"Bangalore, Mantri Pinnacle[KA]",,,,
