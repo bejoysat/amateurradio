@@ -18,7 +18,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 16,VU2KOD,145.15,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Kodaikanal[TN],,,,
 17,VU2RYM,145.6,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Rajapalayam[TN],,,,
 18,VU2IDT,144.9,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Udumalpet[TN],,,,
-19,VU2MWW,145.675,-,0.6,DTCS,88.5,88.5,25,NN,FM,12.5,,"Malabar, Kannur[KL]",,,,
+19,VU2MWW,145.675,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Malabar, Kannur[KL]",,,,
 20,VU2RFF,144.145,+,0.6,,88.5,88.5,23,NN,FM,12.5,,Wayanad[KL],,,,
 21,VU2CSR,145.625,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Kozhikode (Calicut)[KL],,,,
 22,VU2EDJ,145.825,-,0.6,,88.5,88.5,23,NN,FM,13.5,,Vatakara[KL],,,,
