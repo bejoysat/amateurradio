@@ -21,8 +21,8 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 19,VU2MWW,145.675,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Malabar, Kannur[KL]",,,,
 20,VU2RFF,144.145,+,0.6,,88.5,88.5,23,NN,FM,12.5,,Wayanad[KL],,,,
 21,VU2CSR,145.625,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Kozhikode (Calicut)[KL],,,,
-22,VU2EDJ,145.825,-,0.6,,88.5,88.5,23,NN,FM,13.5,,Vatakara[KL],,,,
-23,VU2MJJ,145.45,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Malappuram, Puthanathani[KL]",CQCQCQ,,,0
+22,VU2EDJ,145.825,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Vatakara[KL],,,,
+23,VU2MJJ,145.325,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Malappuram, Puthanathani[KL]",CQCQCQ,,,0
 24,VU2IAC,144.825,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Thrissur[KL],,,,
 25,VU2BCM,145.65,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Palakkad, Nelliyampathi Hills[KL]",,,,
 26,VU2IP,145.265,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Pala, Ilaveezhapunchira[KL]",,,,
