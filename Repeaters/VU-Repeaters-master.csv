@@ -51,5 +51,4 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 49,VU2CVH,145.65,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Kolkata (Calcutta)[WB],,,,
 50,VU2GWR,145,,0.6,,88.5,88.5,23,NN,FM,12.5,,Gwalior[MP],,,,
 51,VU2MMP,145,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Patna[BR],,,,
-
-
+52,VU2DYQ,434.1,+,1.6,,88.5,88.5,23,NN,FM,12.5,,Pune[MH],,,,
