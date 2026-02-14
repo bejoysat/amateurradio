@@ -1,6 +1,6 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
 1,VU2TWO,145.65,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Bangalore, M.G. Road[KA]",,,,
-2,VU2RQB,435.2,+,2,,88.5,88.5,23,NN,FM,13.5,,"Bangalore, M.G. Road[KA]",,,,
+2,VU2RQB,435.2,+,2,,88.5,88.5,23,NN,FM,12.5,,"Bangalore, M.G. Road[KA]",,,,
 3,VU2RSB,145.7,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Bangalore, Nandi Hills[KA]",,,,
 4,VU2ZO,145.275,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Bangalore, UB City[KA]",,,,
 5,VU2ZOI,434.05,+,3.6,,88.5,88.5,23,NN,FM,12.5,,"Bangalore, Mantri Pinnacle[KA]",,,,
@@ -54,5 +54,3 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 90,VU2CVH,145.65,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Kolkata (Calcutta)[WB],,,,
 91,VU2GWR,145,,0.6,,88.5,88.5,23,NN,FM,12.5,,Gwalior[MP],,,,
 92,VU2MMP,145,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Patna[BR],,,,
-
-
