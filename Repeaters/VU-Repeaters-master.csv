@@ -19,7 +19,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 27,VU2KOD,145.15,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Kodaikanal[TN],,,,
 28,VU2RYM,145.6,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Rajapalayam[TN],,,,
 29,VU2IDT,144.9,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Udumalpet[TN],,,,
-30,VU2IDT,145.375,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Erode[TN],,,,
+30,VU2EOD,145.375,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Erode[TN],,,,
 40,VU2MWW,145.675,-,0.6,,88.5,88.5,23,NN,FM,12.5,,"Malabar, Kannur[KL]",,,,
 41,VU2RFF,144.145,+,0.6,,88.5,88.5,23,NN,FM,12.5,,Wayanad[KL],,,,
 42,VU2CSR,145.625,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Kozhikode (Calicut)[KL],,,,
@@ -54,4 +54,5 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 90,VU2CVH,145.65,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Kolkata (Calcutta)[WB],,,,
 91,VU2GWR,145,,0.6,,88.5,88.5,23,NN,FM,12.5,,Gwalior[MP],,,,
 92,VU2MMP,145,-,0.6,,88.5,88.5,23,NN,FM,12.5,,Patna[BR],,,,
+
 
