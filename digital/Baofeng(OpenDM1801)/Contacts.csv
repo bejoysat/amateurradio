@@ -1,0 +1,1025 @@
+Contact Name,ID,ID Type,TS Override
+India,404,Group,Disabled
+Kerala,40407,Group,Disabled
+Peanut YSF Link,404004,Group,Disabled
+Worldwide,91,Group,Disabled
+New Delhi,40430,Group,Disabled
+Reddit,98003,Group,Disabled
+AMSAT,98006,Group,Disabled
+BM UK Parrot,9990,Private,Disabled
+BM Disconnect,4000,Private,Disabled
+TGIF,5031665,Group,Disabled
+M17,5001017,Group,Disabled
+TGIF Disconnect,5004000,Private,Disabled
+TGIF Parrot,5009990,Group,Disabled
+BM UK APRS,234999,Group,Disabled
+GPS and weather,262993,Group,Disabled
+POCSAG,262994,Group,Disabled
+SMSC,262995,Group,Disabled
+XLX Connect A,64001,Group,Disabled
+XLX Connect Z,64026,Group,Disabled
+XLX Unlink,64000,Private,Disabled
+YSF Freestar,7023426,Group,Disabled
+YSF CQ AU,7024117,Group,Disabled
+YSF CQ UK,7027793,Group,Disabled
+YSF America-Link,7032592,Group,Disabled
+YSF Disc,7004000,Group,Disabled
+JAPAN,440,Group,Disabled
+XLX 147,68147,Group,Disabled
+XLX 508,68508,Group,Disabled
+XLX 008,68008,Group,Disabled
+XLX 204,68204,Group,Disabled
+XLX 007,68007,Group,Disabled
+TG 6,6,Group,Disabled
+TG 7,7,Group,Disabled
+TG 8,8,Group,Disabled
+TG 9,9,Group,Disabled
+YSF INDIA,7008338,Group,Disabled
+Bangalore,40480,Group,Disabled
+WorldWide TAC1,901,Group,Disabled
+WorldWide TAC2,902,Group,Disabled
+WorldWide TAC3,903,Group,Disabled
+BM1 Local,1,Group,Disabled
+BM2 Cluster,2,Group,Disabled
+BM92 Europe,92,Group,Disabled
+BM93 North Ameri,93,Group,Disabled
+BM94 Asia Middle,94,Group,Disabled
+BM95 Australia N,95,Group,Disabled
+BM98 Radio Test,98,Group,Disabled
+BM202,202,Group,Disabled
+BM204 Nederland,204,Group,Disabled
+BM206 Belgium,206,Group,Disabled
+BM208 France,208,Group,Disabled
+BM213 Andorra,213,Group,Disabled
+BM214 Spain,214,Group,Disabled
+BM216 Hungary,216,Group,Disabled
+BM218 Bosnia and,218,Group,Disabled
+BM219 Croatia,219,Group,Disabled
+BM220 Serbia,220,Group,Disabled
+BM222 Italia,222,Group,Disabled
+BM226 Romania,226,Group,Disabled
+BM228 Switzerlan,228,Group,Disabled
+BM230 Czech Repu,230,Group,Disabled
+BM231 Slovak,231,Group,Disabled
+BM232 Austria,232,Group,Disabled
+BM235 UK Call -,235,Group,Disabled
+BM238 Denmark,238,Group,Disabled
+BM240 Sweden,240,Group,Disabled
+BM242 Norway,242,Group,Disabled
+BM244 Finland,244,Group,Disabled
+BM246 Lithuania,246,Group,Disabled
+BM247 Latvia,247,Group,Disabled
+BM248 Estonia,248,Group,Disabled
+BM255 Ukraine,255,Group,Disabled
+BM259 Moldova,259,Group,Disabled
+BM260 Poland,260,Group,Disabled
+BM262 Deutschlan,262,Group,Disabled
+BM263 MultiMode,263,Group,Disabled
+BM268 Portugal,268,Group,Disabled
+BM270 Luxembourg,270,Group,Disabled
+BM272 Ireland,272,Group,Disabled
+BM278 Malta,278,Group,Disabled
+BM280 Cyprus,280,Group,Disabled
+BM282 Georgia,282,Group,Disabled
+BM283 Armenia,283,Group,Disabled
+BM284 Bulgaria,284,Group,Disabled
+BM286 Turkey,286,Group,Disabled
+BM292 San Marino,292,Group,Disabled
+BM293 Slovenia,293,Group,Disabled
+BM295 Liechtenst,295,Group,Disabled
+BM297 Montenegro,297,Group,Disabled
+BM302 Canada Wid,302,Group,Disabled
+BM310 Tac 310 NO,310,Group,Disabled
+BM311 TAC 311 US,311,Group,Disabled
+BM312 TAC 312 US,312,Group,Disabled
+BM313 TAC 313 US,313,Group,Disabled
+BM314 TAC 314 US,314,Group,Disabled
+BM315 TAC 315 US,315,Group,Disabled
+BM316 TAC 316 US,316,Group,Disabled
+BM317 TAC 317 US,317,Group,Disabled
+BM318 TAC 318 US,318,Group,Disabled
+BM319 TAC 319 US,319,Group,Disabled
+BM330 Puerto Ric,330,Group,Disabled
+BM334 XE,334,Group,Disabled
+BM338 Jamaica,338,Group,Disabled
+BM352 Grenada,352,Group,Disabled
+BM358 Saint Luci,358,Group,Disabled
+BM362 Curaao,362,Group,Disabled
+BM368 Cuba,368,Group,Disabled
+BM370 Dominican,370,Group,Disabled
+BM372 Haiti,372,Group,Disabled
+BM374 Trinidad,374,Group,Disabled
+BM400 Azerbaijan,400,Group,Disabled
+BM401 Kazahstan,401,Group,Disabled
+BM404 India,404,Group,Disabled
+BM415 Lebanon,415,Group,Disabled
+BM420 Saudi Arab,420,Group,Disabled
+BM422 Oman,422,Group,Disabled
+BM425 Israel,425,Group,Disabled
+BM426 Bahrein,426,Group,Disabled
+BM427 Qatar,427,Group,Disabled
+BM430 United Ara,430,Group,Disabled
+BM450 South Kore,450,Group,Disabled
+BM452 Vietnam,452,Group,Disabled
+BM454 Hong Kong,454,Group,Disabled
+BM460 China,460,Group,Disabled
+BM470 Bangladesh,470,Group,Disabled
+BM502 Malaysia N,502,Group,Disabled
+BM505 Australia,505,Group,Disabled
+BM510 Indonesia,510,Group,Disabled
+BM515 Philippine,515,Group,Disabled
+BM520 Thailand,520,Group,Disabled
+BM525 Singapore,525,Group,Disabled
+BM530 ZL Nationa,530,Group,Disabled
+BM602 Egypt,602,Group,Disabled
+BM604 Morocco,604,Group,Disabled
+BM655 South Afri,655,Group,Disabled
+BM704 Guatemala,704,Group,Disabled
+BM706 El Salvado,706,Group,Disabled
+BM708 Honduras,708,Group,Disabled
+BM710 Nicaragua,710,Group,Disabled
+BM712 Costa Rica,712,Group,Disabled
+BM714 Panama,714,Group,Disabled
+BM716 Per,716,Group,Disabled
+BM722 Argentina,722,Group,Disabled
+BM724 Brazil Nac,724,Group,Disabled
+BM730 Chile,730,Group,Disabled
+BM732 Repblica d,732,Group,Disabled
+BM734 Venezuela,734,Group,Disabled
+BM740 Ecuador,740,Group,Disabled
+BM748 Uruguay,748,Group,Disabled
+BM899 Repeater T,899,Group,Disabled
+BM907 JOTA,907,Group,Disabled
+BM910 German,910,Group,Disabled
+BM913 English,913,Group,Disabled
+BM914 Spanish,914,Group,Disabled
+BM915 Portuguese,915,Group,Disabled
+BM916 Italian,916,Group,Disabled
+BM918 YOTA,918,Group,Disabled
+BM920 DL OE HB9,920,Group,Disabled
+BM922 Dutch,922,Group,Disabled
+BM923 European E,923,Group,Disabled
+BM924 Swedish,924,Group,Disabled
+BM927 Nordic,927,Group,Disabled
+BM930 PanHelleni,930,Group,Disabled
+BM937 Francophon,937,Group,Disabled
+BM940 Arabic,940,Group,Disabled
+BM955 WWYL,955,Group,Disabled
+BM969 DMR-Caribb,969,Group,Disabled
+BM973 SOTA,973,Group,Disabled
+BM2021  1,2021,Group,Disabled
+BM2022  2,2022,Group,Disabled
+BM2023  3,2023,Group,Disabled
+BM2024  4,2024,Group,Disabled
+BM2025  5,2025,Group,Disabled
+BM2026  6,2026,Group,Disabled
+BM2027  7,2027,Group,Disabled
+BM2028  8,2028,Group,Disabled
+BM2029  9,2029,Group,Disabled
+BM2041 Noord Ned,2041,Group,Disabled
+BM2042 Midden Ne,2042,Group,Disabled
+BM2043 Zuid Nede,2043,Group,Disabled
+BM2044 Oost Nede,2044,Group,Disabled
+BM2045 Nederland,2045,Group,Disabled
+BM2061 Belgium N,2061,Group,Disabled
+BM2062 Belgium S,2062,Group,Disabled
+BM2063 Belgium E,2063,Group,Disabled
+BM2064 Belgium O,2064,Group,Disabled
+BM2065 Belgium O,2065,Group,Disabled
+BM2066 Belgium O,2066,Group,Disabled
+BM2067 Belgium O,2067,Group,Disabled
+BM2068 Belgium O,2068,Group,Disabled
+BM2069 Belgium O,2069,Group,Disabled
+BM2080 Urgences,2080,Group,Disabled
+BM2081 Rgion Ile,2081,Group,Disabled
+BM2082 Rgion Nor,2082,Group,Disabled
+BM2083 Rgion Nor,2083,Group,Disabled
+BM2084 Rgion Sud,2084,Group,Disabled
+BM2085 Rgion Sud,2085,Group,Disabled
+BM2087 Technique,2087,Group,Disabled
+BM2089 France Do,2089,Group,Disabled
+BM2140 Spain Lin,2140,Group,Disabled
+BM2141 Regional,2141,Group,Disabled
+BM2142 Regional,2142,Group,Disabled
+BM2143 Regional,2143,Group,Disabled
+BM2144 Regional,2144,Group,Disabled
+BM2145 Regional,2145,Group,Disabled
+BM2146 Regional,2146,Group,Disabled
+BM2147 Regional,2147,Group,Disabled
+BM2148 Regional,2148,Group,Disabled
+BM2149 Regional,2149,Group,Disabled
+BM2161 Hungary E,2161,Group,Disabled
+BM2162 Hungary W,2162,Group,Disabled
+BM2163 Hungary N,2163,Group,Disabled
+BM2164 Hungary S,2164,Group,Disabled
+BM2165 Hungary T,2165,Group,Disabled
+BM2169 Local rep,2169,Group,Disabled
+BM2260 MULTIPROT,2260,Group,Disabled
+BM2262 District,2262,Group,Disabled
+BM2263 District,2263,Group,Disabled
+BM2264 District,2264,Group,Disabled
+BM2265 District,2265,Group,Disabled
+BM2266 District,2266,Group,Disabled
+BM2267 District,2267,Group,Disabled
+BM2268 District,2268,Group,Disabled
+BM2269 District,2269,Group,Disabled
+BM2280 Schweiz D,2280,Group,Disabled
+BM2281 Suisse Ro,2281,Group,Disabled
+BM2282 Valais  W,2282,Group,Disabled
+BM2283 Bern  Sol,2283,Group,Disabled
+BM2284 Basel,2284,Group,Disabled
+BM2285 Aargau  Z,2285,Group,Disabled
+BM2286 Ticino,2286,Group,Disabled
+BM2287 Graubnden,2287,Group,Disabled
+BM2288 Zrich,2288,Group,Disabled
+BM2289 Ostschwei,2289,Group,Disabled
+BM2300 Czech Cro,2300,Group,Disabled
+BM2301 Bohemia,2301,Group,Disabled
+BM2302 Moravia,2302,Group,Disabled
+BM2311 Slovakia,2311,Group,Disabled
+BM2320 OE-Master,2320,Group,Disabled
+BM2321 Wien,2321,Group,Disabled
+BM2322 Salzburg,2322,Group,Disabled
+BM2323 Niederoes,2323,Group,Disabled
+BM2324 Burgenlan,2324,Group,Disabled
+BM2325 Oberoeste,2325,Group,Disabled
+BM2326 Steiermar,2326,Group,Disabled
+BM2327 Tirol,2327,Group,Disabled
+BM2328 Kaernten,2328,Group,Disabled
+BM2329 Vorarlber,2329,Group,Disabled
+BM2350 United Ki,2350,Group,Disabled
+BM2351 Chat 1,2351,Group,Disabled
+BM2352 Chat 2,2352,Group,Disabled
+BM2353 Chat 3,2353,Group,Disabled
+BM2354 Ireland,2354,Group,Disabled
+BM2355 Scotland,2355,Group,Disabled
+BM2356 Wales,2356,Group,Disabled
+BM2357 Isle of M,2357,Group,Disabled
+BM2358 London,2358,Group,Disabled
+BM2359 Kernow,2359,Group,Disabled
+BM2381 Denmark N,2381,Group,Disabled
+BM2382 Denmark M,2382,Group,Disabled
+BM2383 Denmark S,2383,Group,Disabled
+BM2384 Denmark C,2384,Group,Disabled
+BM2385 Denmark S,2385,Group,Disabled
+BM2386 QSY1 Chat,2386,Group,Disabled
+BM2387 QSY2 Chat,2387,Group,Disabled
+BM2400 Regional,2400,Group,Disabled
+BM2401 Regional,2401,Group,Disabled
+BM2402 Regional,2402,Group,Disabled
+BM2403 Regional,2403,Group,Disabled
+BM2404 Regional,2404,Group,Disabled
+BM2405 Regional,2405,Group,Disabled
+BM2406 Regional,2406,Group,Disabled
+BM2407 Regional,2407,Group,Disabled
+BM2410 DCS010D,2410,Group,Disabled
+BM2411 SM Tactic,2411,Group,Disabled
+BM2415 DCS010V,2415,Group,Disabled
+BM2416 Swedenlin,2416,Group,Disabled
+BM2421 Sr- og st,2421,Group,Disabled
+BM2424 Vestlande,2424,Group,Disabled
+BM2426 Midtnorge,2426,Group,Disabled
+BM2429 Nordnorge,2429,Group,Disabled
+BM2440 AX OH0,2440,Group,Disabled
+BM2441 FI OH1,2441,Group,Disabled
+BM2442 FI OH2,2442,Group,Disabled
+BM2443 FI OH3,2443,Group,Disabled
+BM2444 FI OH4,2444,Group,Disabled
+BM2445 FI OH5,2445,Group,Disabled
+BM2446 FI OH6,2446,Group,Disabled
+BM2447 FI OH7,2447,Group,Disabled
+BM2448 FI OH8,2448,Group,Disabled
+BM2449 FI OH9,2449,Group,Disabled
+BM2501 Russia Gl,2501,Group,Disabled
+BM2502 XRF250A B,2502,Group,Disabled
+BM2503 DSTAR-SU,2503,Group,Disabled
+BM2504 RUSSIA Ec,2504,Group,Disabled
+BM2505 Bridge to,2505,Group,Disabled
+BM2506 XRF250C B,2506,Group,Disabled
+BM2555 Ukraine b,2555,Group,Disabled
+BM2559 Emergency,2559,Group,Disabled
+BM2600 Polonia T,2600,Group,Disabled
+BM2601 Regional,2601,Group,Disabled
+BM2602 Regional,2602,Group,Disabled
+BM2603 Regional,2603,Group,Disabled
+BM2604  Regional,2604,Group,Disabled
+BM2605 Regional,2605,Group,Disabled
+BM2606 Regional,2606,Group,Disabled
+BM2607 Regional,2607,Group,Disabled
+BM2608 Regional,2608,Group,Disabled
+BM2609 Regional,2609,Group,Disabled
+BM2620 Sachsen-A,2620,Group,Disabled
+BM2621 BerlinBra,2621,Group,Disabled
+BM2622 HamburgSc,2622,Group,Disabled
+BM2623 Niedersac,2623,Group,Disabled
+BM2624 Nordrhein,2624,Group,Disabled
+BM2625 Rheinland,2625,Group,Disabled
+BM2626 Hessen,2626,Group,Disabled
+BM2627 Baden-Wrt,2627,Group,Disabled
+BM2628 Bayern,2628,Group,Disabled
+BM2629 SachsenTh,2629,Group,Disabled
+BM2681 North,2681,Group,Disabled
+BM2682 Center,2682,Group,Disabled
+BM2683 Capital,2683,Group,Disabled
+BM2684 Alentejo,2684,Group,Disabled
+BM2685 Algarve,2685,Group,Disabled
+BM2686 Azores,2686,Group,Disabled
+BM2687 Madeira I,2687,Group,Disabled
+BM2701 XLX270 A,2701,Group,Disabled
+BM2705 LX ADRAD,2705,Group,Disabled
+BM2706 LX RLX,2706,Group,Disabled
+BM2707 LX Laru,2707,Group,Disabled
+BM2722 IE Callin,2722,Group,Disabled
+BM2723 IE Chat,2723,Group,Disabled
+BM2724 Bridge to,2724,Group,Disabled
+BM2729 AREN Logi,2729,Group,Disabled
+BM2802 Nicosia,2802,Group,Disabled
+BM2803 Famagusta,2803,Group,Disabled
+BM2804 Larnaca,2804,Group,Disabled
+BM2805 Limassol,2805,Group,Disabled
+BM2806 Paphos,2806,Group,Disabled
+BM2807 Kyrenia,2807,Group,Disabled
+BM2842 Sofia,2842,Group,Disabled
+BM2843 Plovdiv,2843,Group,Disabled
+BM2860 Turkey 0R,2860,Group,Disabled
+BM2861 Turkey 1R,2861,Group,Disabled
+BM2940 EmComm,2940,Group,Disabled
+BM2941 Skopje,2941,Group,Disabled
+BM2942 Tetovo,2942,Group,Disabled
+BM2943 Gostivar,2943,Group,Disabled
+BM2944 Kicevo,2944,Group,Disabled
+BM2945 Struga,2945,Group,Disabled
+BM2946 Ohrid,2946,Group,Disabled
+BM2947 Kumanovo,2947,Group,Disabled
+BM2948 Prilep,2948,Group,Disabled
+BM2949 Strumica,2949,Group,Disabled
+BM3020 Newfoundl,3020,Group,Disabled
+BM3021 Nova Scot,3021,Group,Disabled
+BM3022 Quebec,3022,Group,Disabled
+BM3023 Ontario,3023,Group,Disabled
+BM3024 Manitoba,3024,Group,Disabled
+BM3025 Saskatche,3025,Group,Disabled
+BM3026 Alberta,3026,Group,Disabled
+BM3027 British C,3027,Group,Disabled
+BM3028 Nunavut Y,3028,Group,Disabled
+BM3029 New Bruns,3029,Group,Disabled
+BM3100 USA Bridg,3100,Group,Disabled
+BM3101 Alabama -,3101,Group,Disabled
+BM3102 Alaska -,3102,Group,Disabled
+BM3104 Arizona -,3104,Group,Disabled
+BM3105 Arkansas,3105,Group,Disabled
+BM3106 Californi,3106,Group,Disabled
+BM3108 Colorado,3108,Group,Disabled
+BM3109 Connectic,3109,Group,Disabled
+BM3110 Delaware,3110,Group,Disabled
+BM3111 DC - 10 M,3111,Group,Disabled
+BM3112 Florida -,3112,Group,Disabled
+BM3113 Georgia -,3113,Group,Disabled
+BM3115 Hawaii -,3115,Group,Disabled
+BM3116 Idaho - 1,3116,Group,Disabled
+BM3117 Illinois,3117,Group,Disabled
+BM3118 Indiana -,3118,Group,Disabled
+BM3119 Iowa - 10,3119,Group,Disabled
+BM3120 Kansas -,3120,Group,Disabled
+BM3121 Kentucky,3121,Group,Disabled
+BM3122 Louisiana,3122,Group,Disabled
+BM3123 Maine - 1,3123,Group,Disabled
+BM3124 Maryland,3124,Group,Disabled
+BM3125 Massachus,3125,Group,Disabled
+BM3126 Michigan,3126,Group,Disabled
+BM3127 Minnesota,3127,Group,Disabled
+BM3128 Mississip,3128,Group,Disabled
+BM3129 Missouri,3129,Group,Disabled
+BM3130 Montana -,3130,Group,Disabled
+BM3131 Nebraska,3131,Group,Disabled
+BM3132 Nevada -,3132,Group,Disabled
+BM3133 New Hamps,3133,Group,Disabled
+BM3134 New Jerse,3134,Group,Disabled
+BM3135 New Mexic,3135,Group,Disabled
+BM3136 New York,3136,Group,Disabled
+BM3137 North Car,3137,Group,Disabled
+BM3138 North Dak,3138,Group,Disabled
+BM3139 Ohio - 10,3139,Group,Disabled
+BM3140 Oklahoma,3140,Group,Disabled
+BM3141 Oregon -,3141,Group,Disabled
+BM3142 Pennsylva,3142,Group,Disabled
+BM3144 Rhode Isl,3144,Group,Disabled
+BM3145 South Car,3145,Group,Disabled
+BM3146 South Dak,3146,Group,Disabled
+BM3147 Tennessee,3147,Group,Disabled
+BM3148 Texas - 1,3148,Group,Disabled
+BM3149 Utah - 10,3149,Group,Disabled
+BM3150 Vermont -,3150,Group,Disabled
+BM3151 Virginia,3151,Group,Disabled
+BM3153 Washingto,3153,Group,Disabled
+BM3154 West Virg,3154,Group,Disabled
+BM3155 Wisconsin,3155,Group,Disabled
+BM3156 Wyoming -,3156,Group,Disabled
+BM3160 CAP - Civ,3160,Group,Disabled
+BM3166 DVSwitch,3166,Group,Disabled
+BM3167 Allstar,3167,Group,Disabled
+BM3169 Midwest,3169,Group,Disabled
+BM3171 NoCo,3171,Group,Disabled
+BM3172 Northeast,3172,Group,Disabled
+BM3173 Mid-Atlan,3173,Group,Disabled
+BM3174 Southeast,3174,Group,Disabled
+BM3175 Southern,3175,Group,Disabled
+BM3176 Southwest,3176,Group,Disabled
+BM3177 Mountain,3177,Group,Disabled
+BM3180 Missouri,3180,Group,Disabled
+BM3181 POTA,3181,Group,Disabled
+BM3190 PADMR,3190,Group,Disabled
+BM3195 Chemung S,3195,Group,Disabled
+BM3199 US Hurric,3199,Group,Disabled
+BM3300 PRadise R,3300,Group,Disabled
+BM3304 Distrito,3304,Group,Disabled
+BM3305 Distrito,3305,Group,Disabled
+BM3306 Distrito,3306,Group,Disabled
+BM3307 Distrito,3307,Group,Disabled
+BM3308 Distrito,3308,Group,Disabled
+BM3309 Distrito,3309,Group,Disabled
+BM3341 XE 1,3341,Group,Disabled
+BM3342 XE 2,3342,Group,Disabled
+BM3343 XE 3,3343,Group,Disabled
+BM3581 Castries,3581,Group,Disabled
+BM3582 VieuX For,3582,Group,Disabled
+BM3622 PJ2 Tech,3622,Group,Disabled
+BM3740 REACT,3740,Group,Disabled
+BM3741 Woodbrook,3741,Group,Disabled
+BM3742 Port of S,3742,Group,Disabled
+BM3743 San Ferna,3743,Group,Disabled
+BM3744 Tobago,3744,Group,Disabled
+BM Ref4000 Disco,4000,Group,Disabled
+BM Ref4269 BARS,4269,Group,Disabled
+BM5021 West Mala,5021,Group,Disabled
+BM5022 East Mala,5022,Group,Disabled
+BM5050 XLX500 G,5050,Group,Disabled
+BM5051 Australia,5051,Group,Disabled
+BM5052 Australia,5052,Group,Disabled
+BM5053 Australia,5053,Group,Disabled
+BM5054 Australia,5054,Group,Disabled
+BM5055 South Aus,5055,Group,Disabled
+BM5056 Western A,5056,Group,Disabled
+BM5057 Tasmania,5057,Group,Disabled
+BM5058 Australia,5058,Group,Disabled
+BM5151 NCR,5151,Group,Disabled
+BM5152 CRIRCV,5152,Group,Disabled
+BM5153 Cluzon,5153,Group,Disabled
+BM5154 BICOLR,5154,Group,Disabled
+BM5201 R1-Centra,5201,Group,Disabled
+BM5202 R2-East,5202,Group,Disabled
+BM5203 R3-LNorth,5203,Group,Disabled
+BM5204 R4-UNorth,5204,Group,Disabled
+BM5205 R5-UNorth,5205,Group,Disabled
+BM5206 R6-LNorth,5206,Group,Disabled
+BM5207 R7-West,5207,Group,Disabled
+BM5208 R8-USouth,5208,Group,Disabled
+BM5209 R9-LSouth,5209,Group,Disabled
+BM5301 ZL1 Regio,5301,Group,Disabled
+BM5302 ZL2 Regio,5302,Group,Disabled
+BM5303 ZL3 Regio,5303,Group,Disabled
+BM5304 ZL4 Regio,5304,Group,Disabled
+BM6041 Rabat,6041,Group,Disabled
+BM6471 La Runion,6471,Group,Disabled
+BM6558 SARL Hamn,6558,Group,Disabled
+BM7060 XLX526C,7060,Group,Disabled
+BM7061 Regin 1,7061,Group,Disabled
+BM7062 Regin 2,7062,Group,Disabled
+BM7063 Regin 3,7063,Group,Disabled
+BM7064 Eventos E,7064,Group,Disabled
+BM7065 Emergenci,7065,Group,Disabled
+BM7081 Honduras,7081,Group,Disabled
+BM7082 Honduras,7082,Group,Disabled
+BM7083 Honduras,7083,Group,Disabled
+BM7084 Honduras,7084,Group,Disabled
+BM7085 Honduras,7085,Group,Disabled
+BM7086 Honduras,7086,Group,Disabled
+BM7087 Honduras,7087,Group,Disabled
+BM7088 Honduras,7088,Group,Disabled
+BM7089 Honduras,7089,Group,Disabled
+BM7101 Managua C,7101,Group,Disabled
+BM7102 Zona del,7102,Group,Disabled
+BM7103 Zona Del,7103,Group,Disabled
+BM7104 Zona Nort,7104,Group,Disabled
+BM7141 Panama Ci,7141,Group,Disabled
+BM7142 Colon,7142,Group,Disabled
+BM7143 wires-x f,7143,Group,Disabled
+BM7144 Chiriqui,7144,Group,Disabled
+BM7145 GREMPA,7145,Group,Disabled
+BM7146 UPRA,7146,Group,Disabled
+BM7148 RadioClub,7148,Group,Disabled
+BM7162 TRUJILLO,7162,Group,Disabled
+BM7166 Peru Zona,7166,Group,Disabled
+BM7221 AR AMBA,7221,Group,Disabled
+BM7227 Argentina,7227,Group,Disabled
+BM7229 Argentina,7229,Group,Disabled
+BM7300 CE0,7300,Group,Disabled
+BM7301 CE1,7301,Group,Disabled
+BM7302 CE2,7302,Group,Disabled
+BM7303 CE3,7303,Group,Disabled
+BM7304 CE4,7304,Group,Disabled
+BM7305 CE5,7305,Group,Disabled
+BM7306 CE6,7306,Group,Disabled
+BM7307 CE7,7307,Group,Disabled
+BM7308 CE8,7308,Group,Disabled
+BM7309 CE9,7309,Group,Disabled
+BM7320 Colombia,7320,Group,Disabled
+BM7323 Colombia,7323,Group,Disabled
+BM7325 Colombia,7325,Group,Disabled
+BM7326 Colombia,7326,Group,Disabled
+BM7400 Ecuador-H,7400,Group,Disabled
+BM7401 Ecuador H,7401,Group,Disabled
+BM7402 Ecuador D,7402,Group,Disabled
+BM7487 Uruguay L,7487,Group,Disabled
+BM8515 Dstar Ita,8515,Group,Disabled
+BM9071 JOTA Tac,9071,Group,Disabled
+BM9072 JOTA Tac,9072,Group,Disabled
+BM9073 JOTA Tac,9073,Group,Disabled
+BM9074 JOTA Tac,9074,Group,Disabled
+BM9075 JOTA Tac,9075,Group,Disabled
+BM9076 JOTA Tac,9076,Group,Disabled
+BM9077 JOTA Tac,9077,Group,Disabled
+BM9078 JOTA Tac,9078,Group,Disabled
+BM9101 Worldwide,9101,Group,Disabled
+BM9102 Worldwide,9102,Group,Disabled
+BM9107 XRF007 B,9107,Group,Disabled
+BM9112 Emcom EU,9112,Group,Disabled
+BM9201 EURAO,9201,Group,Disabled
+BM9371 Francopho,9371,Group,Disabled
+BM9410 ATV Talk,9410,Group,Disabled
+BM9480 ICQ Podca,9480,Group,Disabled
+BM9500 Collegiat,9500,Group,Disabled
+BM9800 Cafe Grat,9800,Group,Disabled
+BM9911 Emcom US,9911,Group,Disabled
+BM Ref9990 Parro,9990,Group,Disabled
+BM20201 Hellenic,20201,Group,Disabled
+BM20202 Hellenic,20202,Group,Disabled
+BM20203 Hellenic,20203,Group,Disabled
+BM20206 XLX145DS,20206,Group,Disabled
+BM20207 RAAG XLX,20207,Group,Disabled
+BM20208 YSF202 G,20208,Group,Disabled
+BM20231 PATRAS G,20231,Group,Disabled
+BM20241 Trikala,20241,Group,Disabled
+BM20261 Ioannina,20261,Group,Disabled
+BM20281 Corfu Is,20281,Group,Disabled
+BM20401 Wires-X,20401,Group,Disabled
+BM20413 Noordenv,20413,Group,Disabled
+BM20421 Regio Ke,20421,Group,Disabled
+BM20422 Rijk van,20422,Group,Disabled
+BM20423 Utrecht,20423,Group,Disabled
+BM20424 Rijnmond,20424,Group,Disabled
+BM20426 Drechtst,20426,Group,Disabled
+BM20427 NHNoord,20427,Group,Disabled
+BM20431 Limburg,20431,Group,Disabled
+BM20432 Noord Br,20432,Group,Disabled
+BM20433 Maasdrie,20433,Group,Disabled
+BM20441 Regio IJ,20441,Group,Disabled
+BM20443 Gelderla,20443,Group,Disabled
+BM20492 Veterane,20492,Group,Disabled
+BM20493 RFDX,20493,Group,Disabled
+BM20601 Belgium,20601,Group,Disabled
+BM20602 Belgium,20602,Group,Disabled
+BM20610 Belgian,20610,Group,Disabled
+BM20681 Gembloux,20681,Group,Disabled
+BM20800 Wires-X-,20800,Group,Disabled
+BM20803 Dpt Alli,20803,Group,Disabled
+BM20810 Dpt Aube,20810,Group,Disabled
+BM20812 Dpt Avey,20812,Group,Disabled
+BM20813 Dpt Bouc,20813,Group,Disabled
+BM20820 Dpt Cors,20820,Group,Disabled
+BM20830 Dpt Gard,20830,Group,Disabled
+BM20835 Dpt Ille,20835,Group,Disabled
+BM20837 Dpt Indr,20837,Group,Disabled
+BM20840 Dpt Land,20840,Group,Disabled
+BM20843 Dpt Haut,20843,Group,Disabled
+BM20844 Dpt Loir,20844,Group,Disabled
+BM20845 Dpt Loir,20845,Group,Disabled
+BM20853 Dpt Maye,20853,Group,Disabled
+BM20857 Dpt Mose,20857,Group,Disabled
+BM20859 Dpt Nord,20859,Group,Disabled
+BM20866 Dpt Pyrn,20866,Group,Disabled
+BM20867 Dpt Bas-,20867,Group,Disabled
+BM20869 Lyon Rho,20869,Group,Disabled
+BM20872 Dparteme,20872,Group,Disabled
+BM20877 Dpt Sein,20877,Group,Disabled
+BM20883 Dpt Var,20883,Group,Disabled
+BM20887 Dpt Haut,20887,Group,Disabled
+BM20895 Dpt Val-,20895,Group,Disabled
+BM21401 Provinci,21401,Group,Disabled
+BM21402 Provinci,21402,Group,Disabled
+BM21403 Provinci,21403,Group,Disabled
+BM21404 Provinci,21404,Group,Disabled
+BM21405 Provinci,21405,Group,Disabled
+BM21406 Provinci,21406,Group,Disabled
+BM21407 Provinci,21407,Group,Disabled
+BM21408 Provinci,21408,Group,Disabled
+BM21409 Provinci,21409,Group,Disabled
+BM21410 Provinci,21410,Group,Disabled
+BM21411 Provinci,21411,Group,Disabled
+BM21412 Provinci,21412,Group,Disabled
+BM21413 Provinci,21413,Group,Disabled
+BM21414 Provinci,21414,Group,Disabled
+BM21415 Provinci,21415,Group,Disabled
+BM21416 Provinci,21416,Group,Disabled
+BM21417 Provinci,21417,Group,Disabled
+BM21418 Provinci,21418,Group,Disabled
+BM21419 Provinci,21419,Group,Disabled
+BM21420 Provinci,21420,Group,Disabled
+BM21421 Provinci,21421,Group,Disabled
+BM21422 Provinci,21422,Group,Disabled
+BM21423 Provinci,21423,Group,Disabled
+BM21424 Provinci,21424,Group,Disabled
+BM21425 Provinci,21425,Group,Disabled
+BM21427 Provinci,21427,Group,Disabled
+BM21428 Provinci,21428,Group,Disabled
+BM21429 Provinci,21429,Group,Disabled
+BM21430 Provinci,21430,Group,Disabled
+BM21431 Provinci,21431,Group,Disabled
+BM21432 Provinci,21432,Group,Disabled
+BM21433 Provinci,21433,Group,Disabled
+BM21434 Provinci,21434,Group,Disabled
+BM21436 Provinci,21436,Group,Disabled
+BM21437 Provinci,21437,Group,Disabled
+BM21438 Provinci,21438,Group,Disabled
+BM21439 Provinci,21439,Group,Disabled
+BM21440 Provinci,21440,Group,Disabled
+BM21441 Provinci,21441,Group,Disabled
+BM21442 Provinci,21442,Group,Disabled
+BM21443 Provinci,21443,Group,Disabled
+BM21444 Provinci,21444,Group,Disabled
+BM21445 Provinci,21445,Group,Disabled
+BM21446 Provinci,21446,Group,Disabled
+BM21447 Provinci,21447,Group,Disabled
+BM21448 Bizkaia,21448,Group,Disabled
+BM21449 Provinci,21449,Group,Disabled
+BM21450 Provinci,21450,Group,Disabled
+BM21451 Provinci,21451,Group,Disabled
+BM21452 Pronvica,21452,Group,Disabled
+BM21460 BM-CAT,21460,Group,Disabled
+BM21461 Multimod,21461,Group,Disabled
+BM21462 Tcnico,21462,Group,Disabled
+BM21463 TG de us,21463,Group,Disabled
+BM21464 TG de us,21464,Group,Disabled
+BM21466 TG de us,21466,Group,Disabled
+BM21467 TG de us,21467,Group,Disabled
+BM21468 Multimod,21468,Group,Disabled
+BM21469 TG de us,21469,Group,Disabled
+BM21470 TG de us,21470,Group,Disabled
+BM21471 TG de us,21471,Group,Disabled
+BM22201 Lazio,22201,Group,Disabled
+BM22202 Sardegna,22202,Group,Disabled
+BM22203 Umbria,22203,Group,Disabled
+BM22211 Liguria,22211,Group,Disabled
+BM22212 Piemonte,22212,Group,Disabled
+BM22213 Valle dA,22213,Group,Disabled
+BM22221 Lombardi,22221,Group,Disabled
+BM22231 Friuli V,22231,Group,Disabled
+BM22232 Trentino,22232,Group,Disabled
+BM22233 Veneto,22233,Group,Disabled
+BM22241 Emilia R,22241,Group,Disabled
+BM22251 Toscana,22251,Group,Disabled
+BM22261 Abruzzo,22261,Group,Disabled
+BM22262 Marche,22262,Group,Disabled
+BM22271 Puglia,22271,Group,Disabled
+BM22281 Basilica,22281,Group,Disabled
+BM22282 Calabria,22282,Group,Disabled
+BM22283 Campania,22283,Group,Disabled
+BM22284 Molise,22284,Group,Disabled
+BM22287 IT CISAR,22287,Group,Disabled
+BM22288 IT ARI,22288,Group,Disabled
+BM22289 IT ERA,22289,Group,Disabled
+BM22291 Sicilia,22291,Group,Disabled
+BM22292 Dstar IT,22292,Group,Disabled
+BM22298 Wires-X,22298,Group,Disabled
+BM22299 WIRESX-R,22299,Group,Disabled
+BM22601 Diaspora,22601,Group,Disabled
+BM22603 Gate to,22603,Group,Disabled
+BM22691 YO Start,22691,Group,Disabled
+BM22801 UA 1,22801,Group,Disabled
+BM22802 UA 2,22802,Group,Disabled
+BM22803 UA 3,22803,Group,Disabled
+BM22804 UA 4,22804,Group,Disabled
+BM22810 HB9-BM-W,22810,Group,Disabled
+BM22811 Vaud,22811,Group,Disabled
+BM22812 Genve,22812,Group,Disabled
+BM22813 Alpes Va,22813,Group,Disabled
+BM22814 Alpes Va,22814,Group,Disabled
+BM22815 Neuchtel,22815,Group,Disabled
+BM22817 Fribourg,22817,Group,Disabled
+BM22860 Swiss-It,22860,Group,Disabled
+BM22877 Poschiav,22877,Group,Disabled
+BM23200 TAC 1 Au,23200,Group,Disabled
+BM23207 Suedtiro,23207,Group,Disabled
+BM23225 P25 Aust,23225,Group,Disabled
+BM23229 Vorarlbe,23229,Group,Disabled
+BM23299 TAC 2 Au,23299,Group,Disabled
+BM23490 East Ang,23490,Group,Disabled
+BM23500 SWest,23500,Group,Disabled
+BM23510 SEast,23510,Group,Disabled
+BM23515 Guernsey,23515,Group,Disabled
+BM23516 Jersey,23516,Group,Disabled
+BM23520 NWest,23520,Group,Disabled
+BM23526 Hubnet U,23526,Group,Disabled
+BM23530 Yorkshir,23530,Group,Disabled
+BM23531 RAYNET U,23531,Group,Disabled
+BM23540 Ireland,23540,Group,Disabled
+BM23550 Scotland,23550,Group,Disabled
+BM23557 Scotland,23557,Group,Disabled
+BM23558 Scotland,23558,Group,Disabled
+BM23559 Scotland,23559,Group,Disabled
+BM23560 North Ea,23560,Group,Disabled
+BM23562 M62 Corr,23562,Group,Disabled
+BM23570 Wales Ch,23570,Group,Disabled
+BM23575 SALOP Cl,23575,Group,Disabled
+BM23580 West Mid,23580,Group,Disabled
+BM23590 East Mid,23590,Group,Disabled
+BM23812 WiresX C,23812,Group,Disabled
+BM23824 BornHack,23824,Group,Disabled
+BM23888 OZ0FT Li,23888,Group,Disabled
+BM24020 Young La,24020,Group,Disabled
+BM24080 SM XIL,24080,Group,Disabled
+BM24098 Robust P,24098,Group,Disabled
+BM24201 Chatrom,24201,Group,Disabled
+BM24202 Chatrom,24202,Group,Disabled
+BM24203 Chatrom,24203,Group,Disabled
+BM24204 Chatrom,24204,Group,Disabled
+BM24400 AX OH0 Q,24400,Group,Disabled
+BM24409 AX OH0 S,24409,Group,Disabled
+BM24410 FI OH1 Q,24410,Group,Disabled
+BM24420 FI OH2 Q,24420,Group,Disabled
+BM24421 FI OH2 P,24421,Group,Disabled
+BM24422 FI OH2 L,24422,Group,Disabled
+BM24423 FI OH2 I,24423,Group,Disabled
+BM24430 FI OH3 Q,24430,Group,Disabled
+BM24431 FI OH3 T,24431,Group,Disabled
+BM24432 FI OH3 L,24432,Group,Disabled
+BM24440 FI OH4 Q,24440,Group,Disabled
+BM24450 FI OH5 Q,24450,Group,Disabled
+BM24451 FI OH5 E,24451,Group,Disabled
+BM24452 FI OH5 K,24452,Group,Disabled
+BM24460 FI OH6 Q,24460,Group,Disabled
+BM24461 FI OH6 K,24461,Group,Disabled
+BM24462 FI OH6 P,24462,Group,Disabled
+BM24470 FI OH7 Q,24470,Group,Disabled
+BM24471 FI OH7 O,24471,Group,Disabled
+BM24472 FI OH7 P,24472,Group,Disabled
+BM24480 FI OH8 Q,24480,Group,Disabled
+BM24490 FI OH9 Q,24490,Group,Disabled
+BM24804 ES4 Narv,24804,Group,Disabled
+BM24810 Estonia-,24810,Group,Disabled
+BM25011 Russian,25011,Group,Disabled
+BM25501 Kyiv cit,25501,Group,Disabled
+BM25502 Vinnytsk,25502,Group,Disabled
+BM25503 Volynska,25503,Group,Disabled
+BM25504 Dnirpo o,25504,Group,Disabled
+BM25505 Donetska,25505,Group,Disabled
+BM25506 Zhytomyr,25506,Group,Disabled
+BM25507 Zakarpat,25507,Group,Disabled
+BM25508 Zaporizk,25508,Group,Disabled
+BM25509 Ivano fr,25509,Group,Disabled
+BM25510 Kyivska,25510,Group,Disabled
+BM25511 Crimea,25511,Group,Disabled
+BM25512 Kropyvny,25512,Group,Disabled
+BM25513 Luganska,25513,Group,Disabled
+BM25514 Lvivska,25514,Group,Disabled
+BM25515 Mykolaiv,25515,Group,Disabled
+BM25516 Odeska o,25516,Group,Disabled
+BM25517 Poltavsk,25517,Group,Disabled
+BM25518 Rivnensk,25518,Group,Disabled
+BM25519 Sumska o,25519,Group,Disabled
+BM25520 Ternopil,25520,Group,Disabled
+BM25521 Kharkivs,25521,Group,Disabled
+BM25522 Khersons,25522,Group,Disabled
+BM25523 Khmelnyt,25523,Group,Disabled
+BM25524 Cherkask,25524,Group,Disabled
+BM25525 Chernigi,25525,Group,Disabled
+BM25526 Chernive,25526,Group,Disabled
+BM25527 Sevastop,25527,Group,Disabled
+BM25577 UA Azimu,25577,Group,Disabled
+BM25599 Emergenc,25599,Group,Disabled
+BM25701 Belarus,25701,Group,Disabled
+BM25999 MD Tech,25999,Group,Disabled
+BM26011 Szczecin,26011,Group,Disabled
+BM26018 PAAROS C,26018,Group,Disabled
+BM26021 Trojmias,26021,Group,Disabled
+BM26022 Trojmias,26022,Group,Disabled
+BM26026 SPEC Pom,26026,Group,Disabled
+BM26040 Poland T,26040,Group,Disabled
+BM26041 Warmia M,26041,Group,Disabled
+BM26042 Lomza,26042,Group,Disabled
+BM26043 Podlasie,26043,Group,Disabled
+BM26045 Podlasie,26045,Group,Disabled
+BM26053 Mazovia,26053,Group,Disabled
+BM26055 SP5KAB C,26055,Group,Disabled
+BM26056 SP5KAB C,26056,Group,Disabled
+BM26057 MASR,26057,Group,Disabled
+BM26059 Kurpie,26059,Group,Disabled
+BM26071 Lodz,26071,Group,Disabled
+BM26073 Busko Zd,26073,Group,Disabled
+BM26075 Kielce C,26075,Group,Disabled
+BM26076 Skarzysk,26076,Group,Disabled
+BM26078 Kutno,26078,Group,Disabled
+BM26079 Sandomie,26079,Group,Disabled
+BM26091 BASR,26091,Group,Disabled
+BM26093 KPGK,26093,Group,Disabled
+BM26094 Krakow,26094,Group,Disabled
+BM26095 Nowy Sac,26095,Group,Disabled
+BM26097 Bytom,26097,Group,Disabled
+BM26200 TAC 1,26200,Group,Disabled
+BM26207 Sachsen-,26207,Group,Disabled
+BM26209 Brandenb,26209,Group,Disabled
+BM26212 Berlin-C,26212,Group,Disabled
+BM26217 Mecklenb,26217,Group,Disabled
+BM26220 Grossrau,26220,Group,Disabled
+BM26221 Hamburg-,26221,Group,Disabled
+BM26222 Ostholst,26222,Group,Disabled
+BM26223 Chaoswel,26223,Group,Disabled
+BM26224 Elbe-Wes,26224,Group,Disabled
+BM26225 AFU-Nord,26225,Group,Disabled
+BM26226 DMR Netz,26226,Group,Disabled
+BM26227 DMR Netz,26227,Group,Disabled
+BM26228 Ostholst,26228,Group,Disabled
+BM26229 Suedhols,26229,Group,Disabled
+BM26231 NI Mitte,26231,Group,Disabled
+BM26232 Dreilnde,26232,Group,Disabled
+BM26233 TAC 3,26233,Group,Disabled
+BM26234 NI-Sued,26234,Group,Disabled
+BM26235 NI Suedh,26235,Group,Disabled
+BM26236 NI-Nord,26236,Group,Disabled
+BM26238 G38 - We,26238,Group,Disabled
+BM26239 NI Ost,26239,Group,Disabled
+BM26241 Rheinlan,26241,Group,Disabled
+BM26242 Muenster,26242,Group,Disabled
+BM26243 Ruhrgebi,26243,Group,Disabled
+BM26244 Separee,26244,Group,Disabled
+BM26245 Rheinlan,26245,Group,Disabled
+BM26246 Niederrh,26246,Group,Disabled
+BM26247 DG Velbe,26247,Group,Disabled
+BM26249 IGFS IG,26249,Group,Disabled
+BM26250 Saarland,26250,Group,Disabled
+BM26253 Westpfal,26253,Group,Disabled
+BM26255 Kaisersl,26255,Group,Disabled
+BM26256 Eifel-Hu,26256,Group,Disabled
+BM26257 Siegerla,26257,Group,Disabled
+BM26260 Mittelhe,26260,Group,Disabled
+BM26261 Nordhess,26261,Group,Disabled
+BM26262 Rhein-Ma,26262,Group,Disabled
+BM26263 Bergstra,26263,Group,Disabled
+BM26264 Odenwald,26264,Group,Disabled
+BM26265 Taunus,26265,Group,Disabled
+BM26266 TAC 4,26266,Group,Disabled
+BM26270 Stuttgar,26270,Group,Disabled
+BM26271 Baden,26271,Group,Disabled
+BM26272 Neckar-O,26272,Group,Disabled
+BM26273 BW-Ostal,26273,Group,Disabled
+BM26274 BW-Bblin,26274,Group,Disabled
+BM26275 Schwarzw,26275,Group,Disabled
+BM26276 Neckar-A,26276,Group,Disabled
+BM26277 Schwarzw,26277,Group,Disabled
+BM26278 BW Herre,26278,Group,Disabled
+BM26279 BW-Mittl,26279,Group,Disabled
+BM26280 Niederba,26280,Group,Disabled
+BM26282 Schwaben,26282,Group,Disabled
+BM26283 Region M,26283,Group,Disabled
+BM26284 Region F,26284,Group,Disabled
+BM26285 Oberbaye,26285,Group,Disabled
+BM26286 Coburg-R,26286,Group,Disabled
+BM26287 Allgu-Bo,26287,Group,Disabled
+BM26288 Region B,26288,Group,Disabled
+BM26289 Oberpfal,26289,Group,Disabled
+BM26296 Weimar,26296,Group,Disabled
+BM26297 Dresden,26297,Group,Disabled
+BM26298 Thringen,26298,Group,Disabled
+BM26299 TAC 2,26299,Group,Disabled
+BM26301 Sachsen-,26301,Group,Disabled
+BM26302 Leipzig,26302,Group,Disabled
+BM26322 OV D22 S,26322,Group,Disabled
+BM26331 NI Ost,26331,Group,Disabled
+BM26338 afu38,26338,Group,Disabled
+BM26339 Magdebur,26339,Group,Disabled
+BM26345 Paderbor,26345,Group,Disabled
+BM26346 Ostwestf,26346,Group,Disabled
+BM26347 IGA Rhei,26347,Group,Disabled
+BM26348 Westmuen,26348,Group,Disabled
+BM26349 Hochsaue,26349,Group,Disabled
+BM26355 Agfaa,26355,Group,Disabled
+BM26370 Ulm  Don,26370,Group,Disabled
+BM26371 Schwarzw,26371,Group,Disabled
+BM26374 ARIG-MN,26374,Group,Disabled
+BM26375 Bodensee,26375,Group,Disabled
+BM26377 Ortenau,26377,Group,Disabled
+BM26379 Hochrhei,26379,Group,Disabled
+BM26384 Schroben,26384,Group,Disabled
+BM26385 Jura,26385,Group,Disabled
+BM26386 Suedostb,26386,Group,Disabled
+BM26387 Cham,26387,Group,Disabled
+BM26388 Region B,26388,Group,Disabled
+BM26390 Neumarkt,26390,Group,Disabled
+BM26421 C4FM DL-,26421,Group,Disabled
+BM26429 DL-Nordw,26429,Group,Disabled
+BM26444 Inselfre,26444,Group,Disabled
+BM26446 Multibri,26446,Group,Disabled
+BM26447 OWL-Talk,26447,Group,Disabled
+BM26861 CU1-StaM,26861,Group,Disabled
+BM26862 CU2-SMig,26862,Group,Disabled
+BM26863 CU3-Terc,26863,Group,Disabled
+BM26864 CU4-Grac,26864,Group,Disabled
+BM26865 CU5-SJor,26865,Group,Disabled
+BM26866 CU6-Pico,26866,Group,Disabled
+BM26867 CU7-Faia,26867,Group,Disabled
+BM26868 CU8-Flor,26868,Group,Disabled
+BM26869 CU9-Corv,26869,Group,Disabled
+BM27051 LX ADRAD,27051,Group,Disabled
+BM27062 XLX270 B,27062,Group,Disabled
+BM27070 LX LARU,27070,Group,Disabled
+BM27071 LX LARU,27071,Group,Disabled
+BM27072 LX LARU,27072,Group,Disabled
+BM27073 LX LARU,27073,Group,Disabled
+BM27079 LX LARU,27079,Group,Disabled
+BM27230 AREN log,27230,Group,Disabled
+BM27240 SIRN Gat,27240,Group,Disabled
+BM27247 XLX 925,27247,Group,Disabled
+BM27248 XLX 925,27248,Group,Disabled
+BM27250 Connacht,27250,Group,Disabled
+BM27251 Leinster,27251,Group,Disabled
+BM27252 Munster,27252,Group,Disabled
+BM27253 Ulster,27253,Group,Disabled
+BM27254 Southern,27254,Group,Disabled
+BM27255 Galway D,27255,Group,Disabled
+BM27273 EMF Camp,27273,Group,Disabled
+BM27291 AREN Tac,27291,Group,Disabled
+BM28091 Youth 1,28091,Group,Disabled
+BM28092 Youth 2,28092,Group,Disabled
+BM28096 XLX146,28096,Group,Disabled
+BM28097 WiresX C,28097,Group,Disabled
+BM28430 LZ0PLD-R,28430,Group,Disabled
+BM28600 Multimod,28600,Group,Disabled
+BM28601 Turkey A,28601,Group,Disabled
+BM28606 Turkey A,28606,Group,Disabled
+BM28609 Turkey A,28609,Group,Disabled
+BM28614 Turkey B,28614,Group,Disabled
+BM28616 Turkey B,28616,Group,Disabled
+BM28617 Turkey C,28617,Group,Disabled
+BM28627 Turkey G,28627,Group,Disabled
+BM28633 Turkey M,28633,Group,Disabled
+BM28634 Turkey I,28634,Group,Disabled
+BM28635 Turkey I,28635,Group,Disabled
+BM28641 Turkey K,28641,Group,Disabled
+BM28645 Turkey M,28645,Group,Disabled
+BM28646 Turkey K,28646,Group,Disabled
+BM28677 Turkey Y,28677,Group,Disabled
+BM29410 Bitola,29410,Group,Disabled
+BM29411 Gevgelij,29411,Group,Disabled
+BM29412 Kocani,29412,Group,Disabled
+BM29413 Veles,29413,Group,Disabled
+BM29414 Stip,29414,Group,Disabled
+BM29415 Kavadarc,29415,Group,Disabled
+BM29416 Debar,29416,Group,Disabled
+BM29417 Resen,29417,Group,Disabled
+BM29418 Negotino,29418,Group,Disabled
+BM29419 Krusevo,29419,Group,Disabled
+BM29420 Radovis,29420,Group,Disabled
+BM29421 Berovo,29421,Group,Disabled
+BM29422 Delcevo,29422,Group,Disabled
+BM29423 Vinica,29423,Group,Disabled
+BM29424 Kriva Pa,29424,Group,Disabled
+BM29425 Demir Hi,29425,Group,Disabled
+BM29495 Mavrovo,29495,Group,Disabled
+BM29496 Sport We,29496,Group,Disabled
+BM29497 Traffic,29497,Group,Disabled
+BM29498 Multilan,29498,Group,Disabled
+BM29499 TechZone,29499,Group,Disabled
+BM30234 FlexRadi,30234,Group,Disabled
+BM30235 SWARC,30235,Group,Disabled
+BM30271 Canada B,30271,Group,Disabled
+BM30272 Canada B,30272,Group,Disabled
+BM31000 Parrot G,31000,Group,Disabled
+BM31001 Net Talk,31001,Group,Disabled
+BM31002 Net Talk,31002,Group,Disabled
+BM31010 Alabama,31010,Group,Disabled
+BM31011 Gulf Coa,31011,Group,Disabled
+BM31012 QuadNet,31012,Group,Disabled
+BM31013 ALERT-K4,31013,Group,Disabled
+BM31014 HSV,31014,Group,Disabled
+BM31015 Central,31015,Group,Disabled
+BM31016 NW Alaba,31016,Group,Disabled
+BM31017 Alabama,31017,Group,Disabled
+BM31019 Alabama,31019,Group,Disabled
+BM31021 AK Conte,31021,Group,Disabled
+BM31040 AZ EmCom,31040,Group,Disabled
+BM31041 Arizona,31041,Group,Disabled
+BM31051 ARWX,31051,Group,Disabled
+BM31055 NC Arkan,31055,Group,Disabled
+BM31058 NW Arkan,31058,Group,Disabled
+BM31060 PVARC,31060,Group,Disabled
+BM31061 Cal 1,31061,Group,Disabled
+BM31062 Mountain,31062,Group,Disabled
+BM31063 Mtn West,31063,Group,Disabled
+BM31064 Santa Cl,31064,Group,Disabled
+BM31066 SoCal,31066,Group,Disabled
+BM31067 SoCal 1,31067,Group,Disabled
+BM31068 NorCal,31068,Group,Disabled
+BM31069 NorCal 1,31069,Group,Disabled
+BM31070 VCDRC,31070,Group,Disabled
+BM31072 Californ,31072,Group,Disabled
+BM31073 SBARC,31073,Group,Disabled

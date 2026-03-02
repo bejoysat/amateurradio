@@ -1,0 +1,2 @@
+APRS config Name,SSID,Via1,Via1 SSID,Via2,Via2 SSID,Icon table,Icon,Comment text,Ambiguity,Use position,Latitude,Longitude,TX Frequency,Transmit QSY,Baud rate setting
+APRS1,7,WIDE1,1,WIDE2,1,0,15,,0,False,0,0,,False,0,

@@ -1,0 +1,67 @@
+Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kHz),Colour Code,Timeslot,Contact,TG List,DMR ID,TS1_TA_Tx,TS2_TA_Tx ID,RX Tone,TX Tone,Squelch,Power,Rx Only,Zone Skip,All Skip,TOT,VOX,No Beep,No Eco,APRS,Latitude,Longitude,Use Location
+1,Bangalore-VU2TWO,Analogue,145.65,145.05,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+2,Bangalore-VU2RQB,Analogue,435.2,437.2,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+3,Bangalore-VU2RSB,Analogue,145.7,145.1,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+4,Bangalore-VU2ZO DMR,Analogue,145.275,144.675,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+5,Bangalore-VU2ZOI,Analogue,434.05,437.65,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+6,Bangalore-VU2IU,Analogue,145.8,145.2,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+7,Mysore-TRE,Analogue,145.725,145.125,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+8,Chikmagalur-CHQ,Analogue,144.9,144.3,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+9,Chikmagalur-CIQ,Analogue,434.05,437.05,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+10,Mangalore-NIK,Analogue,145.425,144.825,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+20,Yercaud-CPI,Analogue,145.85,145.25,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+21,Yercaud-POC,Analogue,434.95,433.35,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+22,Yelagiri-VCM,Analogue,145.475,144.875,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+23,Chennai-LHS,Analogue,145.55,144.95,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+24,Chennai-MVR,Analogue,145.675,145.075,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+25,Chennai-MRR,Analogue,145.775,145.175,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+26,Coimbatore-RPT,Analogue,145.8,145.2,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+27,Kodaikanal-KOD,Analogue,145.15,144.55,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+28,Rajapalayam-RYM,Analogue,145.6,145,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+29,Udumalpet-IDT,Analogue,144.9,144.3,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+30,Erode-EOD,Analogue,145.375,144.675,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+40,Malabar-MWW,Analogue,145.675,145.075,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+41,Wayanad-RFF,Analogue,144.145,144.745,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+42,Kozhikode-CSR,Analogue,145.625,145.025,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+43,Vatakara-EDJ,Analogue,145.825,145.225,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+44,Malappuram-MJJ,Analogue,145.45,144.85,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+45,Thrissur-IAC,Analogue,144.825,144.225,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+46,Palakkad-BCM,Analogue,145.65,145.05,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+47,Pala-2IP,Analogue,145.265,144.665,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+48,Thodupuzha-TTD,Analogue,145.3,144.7,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+49,Kochi-CHN,Analogue,145.6,145,25,,,,,,,,None,100,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+50,Alappuzha-WSV,Analogue,145.55,144.95,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+51,Idukki-FAR,Analogue,145.175,145.775,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+52,Pathanamthit-DFD,Analogue,144.475,145.075,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+53,Kollam-CSD,Analogue,145.35,144.75,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+54,Kollam-GCC,Analogue,145.2,144.6,25,,,,,,,,None,114.8,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+55,Trivandrum-2XT,Analogue,145.6,145,25,,,,,,,,None,88.5,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+56,Trivandrum-YSR,Analogue,145.225,144.625,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+60,Guntur-AJI,Analogue,145.45,144.85,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+61,Vijayawada-KDD,Analogue,145.55,144.95,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+62,Hyderabad-SDZ,Analogue,144.72,145.32,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+63,Hyderabad-LHR,Analogue,145.6,145,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+64,Visakhapatan-VBR,Analogue,145.4,144.8,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+65,New Delhi-FUN,Analogue,145.67,145.07,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+66,New Delhi-HUB,Analogue,435.67,434.07,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+67,New Delhi-DLR,Analogue,145.6,145,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+68,Mumbai-2ST,Analogue,144.1,144.7,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+69,Mumbai-BBB,Analogue,145.4,144.8,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+70,Pune-PHA,Analogue,145.1,145.7,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+71,Pune-ETD,Analogue,144.8,144.2,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+72,Kolkata-CVH,Analogue,145.65,145.05,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+73,Gwalior-GWR,Analogue,145,145.6,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+74,Patna-MMP,Analogue,145,144.4,25,,,,,,,,None,None,Disabled,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+100,ZO Digital,Digital,"	145.27500","	144.67500",,1,2,BM Disconnect,None,None,Off,Off,,,,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+101,ZO Digital,Digital,"	145.27500","	144.67500",,1,2,India,None,None,Off,Off,,,,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+102,ZO Digital,Digital,"	145.27500","	144.67500",,1,2,Bangalore,None,None,Off,Off,,,,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+103,ZO Digital,Digital,"	145.27500","	144.67500",,1,2,Kerala,None,None,Off,Off,,,,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+104,ZO Digital,Digital,"	145.27500","	144.67500",,1,2,Worldwide,None,None,Off,Off,,,,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+105,ZO Digital,Digital,"	145.27500","	144.67500",,1,2,Chennai,None,None,Off,Off,,,,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+200,BrandMeister,Digital,434.5,434.5,,1,2,BM Disconnect,None,None,Off,Off,,,,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+201,BrandMeister,Digital,434.5,434.5,,1,2,India,None,None,Off,Off,,,,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+202,BrandMeister,Digital,434.5,434.5,,1,2,Kerala,None,None,Off,Off,,,,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+203,BrandMeister,Digital,434.5,434.5,,1,2,New Delhi,None,None,Off,Off,,,,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+204,BrandMeister,Digital,434.5,434.5,,1,2,Bangalore,None,None,Off,Off,,,,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+205,BrandMeister,Digital,434.5,434.5,,1,2,Worldwide,None,None,Off,Off,,,,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
+206,BrandMeister,Digital,434.5,434.5,,1,2,BM UK Parrot,None,None,Off,Off,,,,Master,No,No,No,0,Off,No,No,None,0.0768,0.0336,No
